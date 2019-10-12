@@ -8,6 +8,6 @@ def bubbleSort(arr):
 				arr[j], arr[j+1] = arr[j+1], arr[j]
 
 
-arr = [64, 34, 25, 12, 22, 11, 90]
+arr = [4, -34, 25, 22, 22, 101, 90]
 
 print( bubbleSort(arr) )
